@@ -1,7 +1,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>billboard</title>
+    <title>mahi's_billboard</title>
 </head>
 <body>
     <form action="" method="post" id="submit">
