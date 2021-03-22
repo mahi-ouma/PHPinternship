@@ -1,7 +1,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>billboard</title>
+    <title>mahi's_billboard</title>
 </head>
 <body>
     <form action="" method="post" id="submit">
@@ -34,7 +34,7 @@
     <br>
     <?php
         // DB接続設定
-        $dsn = 'データ';
+        $dsn = 'データベース名';
         $user = 'ユーザー名';
         $password = 'パスワード';
         $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
